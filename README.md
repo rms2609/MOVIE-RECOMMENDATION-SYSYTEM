@@ -7,3 +7,4 @@ euclidean plane and distance between them is used to find the relation between a
 Based on Euclidean distance between any two points we can find how much similarity is there between any two given critic
 and they relative to users interest we can suggest the critics which he is likely to like the most.
 
+Test
